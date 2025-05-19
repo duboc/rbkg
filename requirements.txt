@@ -1,0 +1,5 @@
+streamlit==1.26.0
+Pillow==10.0.0
+google-cloud-aiplatform>=1.36.0
+google-genai>=0.5.0 # Or a more recent version if known, 0.5.0 is a guess
+python-dotenv==1.0.0
